@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vente de Matériaux et Équipements</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            color: #666;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .section {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .contact {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .contact p {
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue chez [Ste bellaaj mokhtar et fils]</h1>
+        <p>Vente de gres à la masse, faïence, carrelage, MDF, fer, ciment, peinture, meubles, évier, cuvette, lavabo, baignoire et plus</p>
+    </header>
+
+    <div class="section">
+        <h2>Nos Produits</h2>
+        <p>Découvrez notre large sélection de matériaux et équipements pour vos projets de construction et de rénovation :</p>
+        <ul>
+            <li>Gres à la masse</li>
+            <li>Faïence</li>
+            <li>Carrelage</li>
+            <li>MDF</li>
+            <li>Fer</li>
+            <li>Ciment</li>
+            <li>Peinture</li>
+            <li>Meuble</li>
+            <li>Évier</li>
+            <li>Cuvette</li>
+            <li>Lavabo</li>
+            <li>Baignoire</li>
+             <li>mirror</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Pourquoi Choisir [Ste bellaaj mokhtar et fils] ?</h2>
+        <p>Nous nous engageons à fournir des produits de haute qualité et un service client exceptionnel.Explorez notre gamme complète de faïences, ciments, carrelages, gres à la masse, MDF, fer, éviers, cuvettes et peintures pour donner vie à tous vos projets de construction avec style et durabilité. Notre expertise et notre expérience nous permettent de répondre à vos besoins avec efficacité et fiabilité.</p>
+    </div>
+
+    <div class="section contact">
+        <h2>Contactez-nous</h2>
+        <p>Pour plus d'informations ou pour passer une commande, n'hésitez pas à nous contacter :</p>
+        <p>Email : bellaajmokhtar@mokhtar.com<br>Téléphone : +21699921028 <br>page facebook : Ste mokhtar bellaaj et fils</p>
+    </div>
+
+</body>
+</html>
+
+
+
